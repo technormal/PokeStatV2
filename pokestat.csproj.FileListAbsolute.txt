@@ -1,0 +1,15 @@
+C:\Users\ishan\source\repos\pokestat\pokestat\bin\Debug\pokestat.exe.config
+C:\Users\ishan\source\repos\pokestat\pokestat\bin\Debug\pokestat.exe.manifest
+C:\Users\ishan\source\repos\pokestat\pokestat\bin\Debug\pokestat.application
+C:\Users\ishan\source\repos\pokestat\pokestat\bin\Debug\pokestat.exe
+C:\Users\ishan\source\repos\pokestat\pokestat\bin\Debug\pokestat.pdb
+C:\Users\ishan\source\repos\pokestat\pokestat\obj\Debug\pokestat.splash.resources
+C:\Users\ishan\source\repos\pokestat\pokestat\obj\Debug\pokestat.main.resources
+C:\Users\ishan\source\repos\pokestat\pokestat\obj\Debug\pokestat.Properties.Resources.resources
+C:\Users\ishan\source\repos\pokestat\pokestat\obj\Debug\pokestat.csproj.GenerateResource.cache
+C:\Users\ishan\source\repos\pokestat\pokestat\obj\Debug\pokestat.csproj.CoreCompileInputs.cache
+C:\Users\ishan\source\repos\pokestat\pokestat\obj\Debug\pokestat.exe.manifest
+C:\Users\ishan\source\repos\pokestat\pokestat\obj\Debug\pokestat.application
+C:\Users\ishan\source\repos\pokestat\pokestat\obj\Debug\pokestat.exe
+C:\Users\ishan\source\repos\pokestat\pokestat\obj\Debug\pokestat.pdb
+C:\Users\ishan\source\repos\pokestat\pokestat\obj\Debug\pokestat.csprojAssemblyReference.cache
